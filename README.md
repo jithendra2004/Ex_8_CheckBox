@@ -158,7 +158,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output
 
-![output]()
+![output](https://github.com/jithendra2004/Ex_8_CheckBox/blob/main/j81.png)
 
 
 ## Result:
